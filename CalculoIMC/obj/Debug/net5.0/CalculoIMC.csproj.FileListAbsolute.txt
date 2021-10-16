@@ -1,0 +1,16 @@
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoIMC\CalculoIMC\bin\Debug\net5.0\CalculoIMC.exe
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoIMC\CalculoIMC\bin\Debug\net5.0\CalculoIMC.deps.json
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoIMC\CalculoIMC\bin\Debug\net5.0\CalculoIMC.runtimeconfig.json
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoIMC\CalculoIMC\bin\Debug\net5.0\CalculoIMC.runtimeconfig.dev.json
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoIMC\CalculoIMC\bin\Debug\net5.0\CalculoIMC.dll
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoIMC\CalculoIMC\bin\Debug\net5.0\ref\CalculoIMC.dll
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoIMC\CalculoIMC\bin\Debug\net5.0\CalculoIMC.pdb
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoIMC\CalculoIMC\obj\Debug\net5.0\CalculoIMC.csproj.AssemblyReference.cache
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoIMC\CalculoIMC\obj\Debug\net5.0\CalculoIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoIMC\CalculoIMC\obj\Debug\net5.0\CalculoIMC.AssemblyInfoInputs.cache
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoIMC\CalculoIMC\obj\Debug\net5.0\CalculoIMC.AssemblyInfo.cs
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoIMC\CalculoIMC\obj\Debug\net5.0\CalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoIMC\CalculoIMC\obj\Debug\net5.0\CalculoIMC.dll
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoIMC\CalculoIMC\obj\Debug\net5.0\ref\CalculoIMC.dll
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoIMC\CalculoIMC\obj\Debug\net5.0\CalculoIMC.pdb
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoIMC\CalculoIMC\obj\Debug\net5.0\CalculoIMC.genruntimeconfig.cache
