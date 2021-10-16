@@ -22,7 +22,7 @@ namespace CalculoIMC
 
             } 
             
-            if (imc <= 20 || imc < 25) { 
+            if (imc >= 20 || imc < 25) { 
 
                 Console.WriteLine("Você está com o peso ideal!");
             }
